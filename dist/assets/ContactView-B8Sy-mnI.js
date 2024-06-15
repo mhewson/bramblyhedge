@@ -1,0 +1,1 @@
+import{_ as e,N as t,O as c,W as o,L as s,aa as _,ab as n,ac as r}from"./index-nF_EHAIi.js";const d={},p=a=>(_("data-v-f21606eb"),a=a(),n(),a),f=p(()=>r("h1",null,"Contact",-1));function i(a,l){return s(),t(o,{class:"fill-height"},{default:c(()=>[f]),_:1})}const u=e(d,[["render",i],["__scopeId","data-v-f21606eb"]]);export{u as default};

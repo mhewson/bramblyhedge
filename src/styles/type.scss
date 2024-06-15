@@ -1,0 +1,36 @@
+
+:root {
+  --v-font-family-brand-heading: "Fredericka the Great", serif;
+}
+
+
+.fluid-text-h1 {
+  font-size: var(--v-font-step-5);
+  line-height: calc(var(--v-font-step-4) * 1.25);
+  font-weight: 400;
+  font-style: normal;
+  
+}
+
+.fluid-text-h2 {
+  font-size: var(--v-font-step-4);
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fluid-text-h3 {
+  font-size: var(--v-font-step-3);
+}
+
+.fluid-text-h4 {
+  font-size: var(--v-font-step-2);
+}
+
+.fluid-text-h5 {
+  font-size: var(--v-font-step-1);
+}
+
+.fluid-text-h6 {
+  font-size: var(--v-font-step-0);
+}
+
